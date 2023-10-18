@@ -1,4 +1,5 @@
 console.log("Hello Git")
-let producto {
-    
+const producto {
+    casa : "la florida",
+    pasaje: "Cerro blanco"
 }
