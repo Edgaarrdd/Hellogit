@@ -1,4 +1,4 @@
 console.log("Hello Git")
-let producto {
-    
-}
+const producto = {
+    televisores : "camino"
+};
